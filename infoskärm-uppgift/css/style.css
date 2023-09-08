@@ -123,6 +123,7 @@ td{
 }
 .news>div>h2{
     font-size: 4dvh;
+    margin-bottom: 1vh;
 }
 table{
     width: 35dvh;
